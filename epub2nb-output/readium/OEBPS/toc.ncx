@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Kus umělce</text>
+  </docTitle>
+  <docAuthor>
+    <text>David Zábranský</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/kus_umelce_006.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/kus_umelce_008.xhtml#_idParaDest-2"/>
+      <navPoint id="navpoint3" playOrder="3">
+        <navLabel>
+          <text>Úvodní scéna, syžet</text>
+        </navLabel>
+        <content src="Text/kus_umelce_009.xhtml#_idParaDest-3"/>
+      </navPoint>
+      <navPoint id="navpoint4" playOrder="4">
+        <navLabel>
+          <text>Druhá scéna, syžet</text>
+        </navLabel>
+        <content src="Text/kus_umelce_010.xhtml#_idParaDest-4"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="Text/kus_umelce_011.xhtml#_idParaDest-5"/>
+      <navPoint id="navpoint6" playOrder="6">
+        <navLabel>
+          <text>Marcin Maciejowski, Tak jest, Muzeum Narodowe v Krakowie</text>
+        </navLabel>
+        <content src="Text/kus_umelce_012.xhtml#_idParaDest-6"/>
+      </navPoint>
+      <navPoint id="navpoint7" playOrder="7">
+        <navLabel>
+          <text>(Varšava)</text>
+        </navLabel>
+        <content src="Text/kus_umelce_013.xhtml#_idParaDest-7"/>
+      </navPoint>
+      <navPoint id="navpoint8" playOrder="8">
+        <navLabel>
+          <text>(Strakonicko)</text>
+        </navLabel>
+        <content src="Text/kus_umelce_014.xhtml#_idParaDest-8"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
