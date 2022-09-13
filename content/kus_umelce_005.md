@@ -1,14 +1,15 @@
 ---
 title: ''
+hiddenTitle: true
 contentType: prose
 ---
 
 <section>
 
-_Kurtz:  
+Kurtz:  
 Are my methods unsound?  
      Willard:  
-I don’t see any method at all, sir._
+I don’t see any method at all, sir.
 
 </section>
 
