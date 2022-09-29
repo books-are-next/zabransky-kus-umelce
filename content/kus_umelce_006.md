@@ -20,7 +20,7 @@ Zvuk polnice mohl znamenat jediné, ne, zvuk polnice mohl znamenat to, ale i to
 
 <section>
 
-Balthasara by nikdo nepřehlédl ani u pramene té nejtišší studánky.[1](./resources/undefined)
+Balthasara by nikdo nepřehlédl ani u pramene té nejtišší studánky.[^1]
 
 Vyvalil se s kufrem před vilu. Má kufr, kdo nemá starost, má kufry, kdo nemá starosti! Co sis vzal, Balthasare, z Bulharska? Kufr ne, kufr je Benetton, bene, Balthasar! Co si teda vzal? Vervusetam! Balthasar nosil v srdci své rodné Vervusetam, přenášel své Vervusetam všude po Evropě, doslova přenášel, doslova po celé. Pod vším bylo Vervusetam. Balthasar všude a všem cpal své Vervusetam, nikdy od téhle (města? vesnice? myšlenky? koncepce?) neuhnul ani o metr, ten Balthasar, ten Balthasar z bulharského Vervusetam, ale copak budu pořád opakovat Vervusetam, Vervusetam, Vervusetam, copak je nějaká bulharská obec důležitá?! Ne víc než Balthasar! Jak důležitý je Balthasar? Ani za zrnko maku, ani za jediný kaškaval! Balthasar von Vervusetam je zcela (z cely, Balthasar a jemu podobní by měli být bezvýznamní z cely) bezvýznamný, Balthasar je z lidí, kteří by do jednoho měli hnít. V tom, co se dělo, je Balthasarovo tělo pouhou spojnicí.
 
@@ -28,7 +28,7 @@ Vyvalil se s kufrem před vilu. Má kufr, kdo nemá starost, má kufry, kdo nem
 
 <section>
 
-Večeře byla civilní. Civilní chování bylo tím prvním, co se Balthasar naučil po odchodu z Vervusetam, úplně civilně tlachat, úplně civilně čumět na fotbal. Ale na druhé straně… Dole… Zadržovali jsme nohy stolu, lopaty, kaškaval. Obraceli jsme se proti jídlu, kterého bylo zbytečně moc, kterého bylo málo, které bylo rozdrobené do příliš mnoha chodů, které bylo příliš krvavé, nože příliš tupé, sklo příliš čiré, číšníci zbyteční, Ellu[2](./resources/undefined) zbytečná, Balthasar… nezavděčí se! Něco řekla (žena, samozřejmě že Balthasar je žena), ale nezavděčila se a všichni u stolu se začali zabývat rozdílem, všemi rozdíly, ale především rozdílem třídním, který se řezal… Hlavní chod, krvavá flákota. Balthasar vstala a mluvila a její přehoz se s každým slovem přibližoval flákotě… až se v ní vymáchal. Co ta flákota a celá akce kolem flákoty symbolizovala? Panenko skákavá, co tak asi symbolizuje krvavá flákota! Korporátní svět! Korporát! Korpus, porcovaný, rozřezaný korpus přece! Co tak asi celá akce symbolizovala, co asi jiného než porcování, rozřezání nás! Rozřezaná Ellu svoji flákotu vrátila a strhla i nás, vždyť čím se Hieronymus Bosch zabývá, vždyť Hieronymus Bosch rovná se… maskovaná černota. Bílé zboží, ale černé zboží, bílé elektro, ale černé elektro…
+Večeře byla civilní. Civilní chování bylo tím prvním, co se Balthasar naučil po odchodu z Vervusetam, úplně civilně tlachat, úplně civilně čumět na fotbal. Ale na druhé straně… Dole… Zadržovali jsme nohy stolu, lopaty, kaškaval. Obraceli jsme se proti jídlu, kterého bylo zbytečně moc, kterého bylo málo, které bylo rozdrobené do příliš mnoha chodů, které bylo příliš krvavé, nože příliš tupé, sklo příliš čiré, číšníci zbyteční, Ellu[^2] zbytečná, Balthasar… nezavděčí se! Něco řekla (žena, samozřejmě že Balthasar je žena), ale nezavděčila se a všichni u stolu se začali zabývat rozdílem, všemi rozdíly, ale především rozdílem třídním, který se řezal… Hlavní chod, krvavá flákota. Balthasar vstala a mluvila a její přehoz se s každým slovem přibližoval flákotě… až se v ní vymáchal. Co ta flákota a celá akce kolem flákoty symbolizovala? Panenko skákavá, co tak asi symbolizuje krvavá flákota! Korporátní svět! Korporát! Korpus, porcovaný, rozřezaný korpus přece! Co tak asi celá akce symbolizovala, co asi jiného než porcování, rozřezání nás! Rozřezaná Ellu svoji flákotu vrátila a strhla i nás, vždyť čím se Hieronymus Bosch zabývá, vždyť Hieronymus Bosch rovná se… maskovaná černota. Bílé zboží, ale černé zboží, bílé elektro, ale černé elektro…
 
 </section>
 
@@ -46,7 +46,7 @@ Vyrval jsem maso z koberce, vrátil jsem se ke stolu, nad stůl, a zeptal jsem
 
 <section>
 
-Po večeři jsme skočili do postele. Nevylezli jsme z ní dřív než v poledne. A právě v poledne nebo lehce po poledni, kdo by se o to staral, když nemusíte do práce (_Poláci… já jsem se celé dopoledne válel v posteli za německé elektropeníze_…), právě něco po poledni, když jsem Agu[3](./resources/undefined) oblékal, když jsem jí obouval botu, uslyšel jsem:
+Po večeři jsme skočili do postele. Nevylezli jsme z ní dřív než v poledne. A právě v poledne nebo lehce po poledni, kdo by se o to staral, když nemusíte do práce (_Poláci… já jsem se celé dopoledne válel v posteli za německé elektropeníze_…), právě něco po poledni, když jsem Agu[^3] oblékal, když jsem jí obouval botu, uslyšel jsem:
 
 T
 
@@ -54,10 +54,10 @@ Té! Té! Té! Té!, jako z palné zbraně, když jsem botu držel u ucha. A 
 
 * * *
 
-[1](./resources/undefined) Balthasar sedí u té nejtišší studánky, a přestože je slyšet jen zvuk toho nejtiššího pramínku vody, Balthasar von Vervusetam z Nadace Hieronyma Bosche je nepřehlédnutelný! Studánka tiše polkne… Tiše polkněte… Šššš… Slyšíte?? Ne, neslyšíte skoro nic, Balthasarovy hodinky a pramínek vody, ale Balthasar tam je! Vidíte?! Zkuste říct, že ne!
+[^1]: Balthasar sedí u té nejtišší studánky, a přestože je slyšet jen zvuk toho nejtiššího pramínku vody, Balthasar von Vervusetam z Nadace Hieronyma Bosche je nepřehlédnutelný! Studánka tiše polkne… Tiše polkněte… Šššš… Slyšíte?? Ne, neslyšíte skoro nic, Balthasarovy hodinky a pramínek vody, ale Balthasar tam je! Vidíte?! Zkuste říct, že ne!
 
-[2](./resources/undefined) Překladatelka.
+[^2]: Překladatelka.
 
-[3](./resources/undefined) Pětatřicítka z Gdyně.
+[^3]: Pětatřicítka z Gdyně.
 
 </section>
